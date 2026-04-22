@@ -1,0 +1,30 @@
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\bin\Debug\Welcome_Skills_International.exe.config
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\bin\Debug\Welcome_Skills_International.exe
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\bin\Debug\Welcome_Skills_International.pdb
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.csprojResolveAssemblyReference.cache
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.frmWelcome.resources
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.Properties.Resources.resources
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.csproj.GenerateResource.Cache
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.exe
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.pdb
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.frmLogin.resources
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\bin\Debug\System.Data.Common.dll
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.frmMenu.resources
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.frmregistration.resources
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.frmContact.resources
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\bin\Debug\Welcome_Skills_International.exe.config
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.exe
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.pdb
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\bin\Debug\Welcome_Skills_International.exe
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\bin\Debug\Welcome_Skills_International.pdb
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\bin\Debug\System.Data.Common.dll
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.csprojResolveAssemblyReference.cache
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.frmWelcome.resources
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.frmContact.resources
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.frmLogin.resources
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.frmMenu.resources
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.frmregistration.resources
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.Properties.Resources.resources
+C:\Users\Hansani\OneDrive - esoft.lk\Esoft_Diploma\Final_Project\E224920 Final Project\Welcome_Skills_International\Welcome_Skills_International\obj\Debug\Welcome_Skills_International.csproj.GenerateResource.Cache
